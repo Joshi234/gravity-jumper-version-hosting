@@ -1,11 +1,7 @@
--Early Version of the level creator, more coming soon
+-Fixed the Level Editor, now everything should work like its intended to
 
--Leaderboards are currently disabled because they arent working like they should
+-One new level
 
--Added one new Level
+-One new Object that is very confusing
 
--Added automatic checker for updates at startup
-
--More small bug fixes
-
--Signs are now in the background
+-Added Changelog in the Update Popup
