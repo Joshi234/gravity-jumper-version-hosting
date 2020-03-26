@@ -1,11 +1,12 @@
--Fixed the Level Editor, now everything should work like its intended to
-
--One new level
-
--One new Object that is very confusing
-
--Added Changelog in the Update Popup
-
--Small bug fixes
-
--Added Discord Button
+-Added Menu support for controller
+-Reworked Menu
+-Endless Mode!(Reall buggy)
+-More Editor Mode Buttons
+-Settings!
+-Press R in the Editor Mode for rotate
+-Save and Load in Editor
+-Many, Many, Many Bugfixes
+-Pause Menu
+-More fancy animations!
+-Wider Camera
+And many, many more
